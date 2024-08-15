@@ -14,3 +14,6 @@ The dataset consists of 11 clinical features, each offering valuable insights in
 
 Out of the 11 clinical features, 10 were deemed relevant for the predictive modeling task based on their potential significance in predicting stroke events. The selection process involved careful consideration of each feature's contribution to the predictive accuracy of the model.
 
+# Correlation
+
+![image](https://github.com/user-attachments/assets/02f73ac0-7278-42c8-909a-38b1bfc81d84)
