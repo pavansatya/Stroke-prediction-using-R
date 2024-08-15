@@ -17,3 +17,5 @@ Out of the 11 clinical features, 10 were deemed relevant for the predictive mode
 # Correlation
 
 ![image](https://github.com/user-attachments/assets/02f73ac0-7278-42c8-909a-38b1bfc81d84)
+![image](https://github.com/user-attachments/assets/53e1b96b-9818-47fc-8ced-0fb409b4c33e)
+
